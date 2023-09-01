@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: @JiujitsuNYC
+title: ATJiujitsuNYC
 tagline: Martial Arts Academy in Queens NY
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
