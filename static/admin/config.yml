@@ -103,7 +103,7 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
- - label: "Kids Martial Arts"
+      - label: "Kids Martial Arts"
         name: "kids-martial-arts"
         file: "src/content/pages/kids-martial-arts.md"
         fields:
