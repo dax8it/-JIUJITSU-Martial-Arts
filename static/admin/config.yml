@@ -102,6 +102,21 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
+ - label: "Kids Martial Arts"
+        name: "kids-martial-arts"
+        file: "src/content/pages/kids-martial-arts.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "kids-martial-arts",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/kids-martial-arts" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"

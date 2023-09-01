@@ -1,8 +1,10 @@
 ---
-template: about-page
-slug: /about
-title: About @Jiujitsu Martial Arts Academy
+template: schedule
+slug: /martial-arts-schedule
+title: Martial Arts Class Schedule
 ---
+
+* Martial Arts Class Schedule
 
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 

@@ -1,8 +1,10 @@
 ---
-template: about-page
-slug: /about
-title: About @Jiujitsu Martial Arts Academy
+template: prices
+slug: /prices
+title: Martial Arts Training Prices
 ---
+
+* Martial Arts Training Prices
 
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 

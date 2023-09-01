@@ -1,8 +1,10 @@
 ---
-template: about-page
-slug: /about
-title: About @Jiujitsu Martial Arts Academy
+template: kids-martial-arts
+slug: /kids-martial-arts
+title: Kids Martial Arts Programs
 ---
+
+Kids Martial Arts Programs
 
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
