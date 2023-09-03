@@ -98,8 +98,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ATJiuJitsuNYC`,
-        short_name: `ATJiuJitsuNYC`,
+        name: `'@JiuJitsuNYC'`,
+        short_name: `'@JiuJitsuNYC'`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
