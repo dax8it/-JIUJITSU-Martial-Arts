@@ -252,6 +252,45 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
+
+      <div className="row">        
+            <div className="col-6">
+              <div>
+                   <h2>Kids Martial Arts</h2>
+                  <p>Martial arts is a structured system of training designed to 
+                    improve physical fitness, mental discipline, and self-defense
+                     skills. 
+                     <br />                 
+                <ul>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
+                          **Kids Jiu-Jitsu**: (5-9)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
+                          **Kids Jiu-Jitsu**: (10-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
+                          **Kids Kickboxing**: (Ages 7-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-mma/">
+                          **Kids MMA**: (Ages 8-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
+                          **Toddlers Jiujitsu**: (Ages 3-5)</a></li>
+          
+                </ul>
+                
+                  </p>
+                  <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
+                      Learn More
+                  </a>
+              </div>
+            </div>
+            <div className="col-6">
+              <div>
+       
+              </div>
+            </div>
+          </div>
+
+
+
+
       <BlogListHome data={posts} />
     </Layout>
   )
