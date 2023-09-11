@@ -253,33 +253,34 @@ const HomePage = ({ data }) => {
         </div>
       </div>
       <hr />
-      <div class="container">
-      <h2>Kids Martial Arts</h2>
-                  <p>Martial arts is a structured system of training designed to 
-                    improve physical fitness, mental discipline, and self-defense
-                     skills. 
-                  </p>    
-  <div class="row">
-    <ul class="list-unstyled">
-      <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">Kids Jiu-Jitsu</a></li>
-      <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">Kids Kickboxing</a></li>
-      <li><a href="https://www.atjiujitsunyc.com/kids-mma/">Kids MMA</a></li>
-    </ul>
-  </div>
+      <div class="row-home">
+        <div class="container-home">
+              <h2>Kids Martial Arts</h2>
+                          <p>Martial arts is a structured system of training designed to 
+                            improve physical fitness, mental discipline, and self-defense
+                            skills. 
+                          </p>    
+            <ul class="list-home">
+              <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">Kids Jiu-Jitsu</a></li>
+              <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">Kids Kickboxing</a></li>
+              <li><a href="https://www.atjiujitsunyc.com/kids-mma/">Kids MMA</a></li>
+            </ul>
+        </div>
+       <div class="container-home">
+           <h2>Adults Martial Arts</h2>
+              <p>Maybe this will work we shall see.
+              </p>
 
-      <h2>Adults Martial Arts</h2>
-            <p>Maybe this will work we shall see.
-            </p>
-
-      <div class="row">
-        <ul class="list-unstyled">
-          <li><a href="#">Full-Body Workout</a></li>
-          <li><a href="#">Cardio King</a></li>
-          <li><a href="#">Shed Those Pounds</a></li>  
-          <li><a href="#">Flexibility & Mobility</a></li>
-        </ul>
-      </div>
-    </div>
+          <div class="row-home">
+            <ul class="list-home">
+              <li><a href="#">Full-Body Workout</a></li>
+              <li><a href="#">Cardio King</a></li>
+              <li><a href="#">Shed Those Pounds</a></li>  
+              <li><a href="#">Flexibility & Mobility</a></li>
+            </ul>
+          </div>
+        </div>
+        </div>
     <hr />
     
    <BlogListHome data={posts} />
