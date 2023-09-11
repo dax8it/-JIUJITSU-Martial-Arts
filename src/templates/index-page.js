@@ -252,60 +252,37 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
-
-      <div className="row">        
-            <div className="col-6">
-              <div>
-                   <h2>Kids Martial Arts</h2>
+      <hr />
+      <div class="container">
+      <h2>Kids Martial Arts</h2>
                   <p>Martial arts is a structured system of training designed to 
                     improve physical fitness, mental discipline, and self-defense
                      skills. 
-                     <br />                 
-                <ul>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          **Kids Jiu-Jitsu**: (5-9)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          **Kids Jiu-Jitsu**: (10-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
-                          **Kids Kickboxing**: (Ages 7-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-mma/">
-                          **Kids MMA**: (Ages 8-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
-                          **Toddlers Jiujitsu**: (Ages 3-5)</a></li>
-          
-                </ul>
-                
-                  </p>
-                  <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
-                      Learn More
-                  </a>
-              </div>
-            </div>
-            <div className="col-6">
-              <div>
-                   <h2>Adults Martial Arts</h2>
-                  <p>Maybe this will work we shall see.
-                  </p>
-                  <p>                  
-                <ul>
-                    <li>**Full-Body Workout**</li>
-                    <li>**Cardio King**</li>
-                    <li>**Shed Those Pounds**</li>
-                    <li>**Flexibility & Mobility**</li>
-                </ul>
-                  </p>
+                  </p>    
+  <div class="row">
+    <ul class="list-unstyled">
+      <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">Kids Jiu-Jitsu</a></li>
+      <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">Kids Kickboxing</a></li>
+      <li><a href="https://www.atjiujitsunyc.com/kids-mma/">Kids MMA</a></li>
+    </ul>
+  </div>
 
-                  <a href="#" className="button primary large">
-                      Learn More
-                  </a>
-              </div>
-            </div>
-          </div>
+      <h2>Adults Martial Arts</h2>
+            <p>Maybe this will work we shall see.
+            </p>
 
-
-
-
-      <BlogListHome data={posts} />
+      <div class="row">
+        <ul class="list-unstyled">
+          <li><a href="#">Full-Body Workout</a></li>
+          <li><a href="#">Cardio King</a></li>
+          <li><a href="#">Shed Those Pounds</a></li>  
+          <li><a href="#">Flexibility & Mobility</a></li>
+        </ul>
+      </div>
+    </div>
+    <hr />
+    
+   <BlogListHome data={posts} />
     </Layout>
   )
 }
