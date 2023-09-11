@@ -283,7 +283,21 @@ const HomePage = ({ data }) => {
             </div>
             <div className="col-6">
               <div>
-       
+                   <h2>Adults Martial Arts</h2>
+                  <p>Maybe this will work we shall see.
+                  </p>
+                  <p>                  
+                <ul>
+                    <li>**Full-Body Workout**</li>
+                    <li>**Cardio King**</li>
+                    <li>**Shed Those Pounds**</li>
+                    <li>**Flexibility & Mobility**</li>
+                </ul>
+                  </p>
+
+                  <a href="#" className="button primary large">
+                      Learn More
+                  </a>
               </div>
             </div>
           </div>
