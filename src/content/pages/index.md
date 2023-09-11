@@ -2,11 +2,13 @@
 template: index-page
 slug: /
 title: "@JiujitsuNYC"
-tagline: Martial Arts Academy in Queens NY
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: "Discover Your Child's Inner Strength: Martial Arts for Lasting
+  Confidence and Achievement!"
+featuredImage: /assets/dsc04157.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
+## Transform Together: Our Martial Arts Family Prioritizes Strength, Resilience, and Unity.
 
-I WANT TO KNOW WHERE THIS GOES.
+He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
