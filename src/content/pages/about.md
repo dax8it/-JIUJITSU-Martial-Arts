@@ -3,14 +3,21 @@ template: about-page
 slug: /about
 title: About @Jiujitsu Martial Arts Academy
 ---
+### About "The Non-Essentials"
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+Rocking the tristate area with a blend of iconic tunes from the 70s, 80s, 90s, and 00s, "The Non-Essentials" have been igniting stages since their inception by lead guitarist Paul Campanelli. Hailing from Northern New Jersey, our band members are seasoned musicians united by a shared passion for classic rock and a commitment to delivering high-energy performances.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+We are not just another cover band. Our repertoire is a carefully curated mix of the greatest rock hits, ensuring there's something for every rock enthusiast in our audience. Whether it's the rhythmic pulse of 70s rock, the electrifying guitar solos of the 80s, the raw energy of 90s grunge, or the unforgettable melodies of the 00s, we bring it all to life with authenticity and fervor.
+
+Our performances are more than just concerts; they are a homage to the era of rock and roll. Without resorting to gimmicks or costumes, we focus on what matters most – the music. Each show is a unique experience, tailored to our audience, guaranteeing an unforgettable night of nostalgia and fun.
+
+Based in the heart of the tristate area, "The Non-Essentials" are available for bookings, ready to bring the spirit of rock and roll to your event. Whether it's a lively bar gig, a private party, or a grand corporate event, we promise to keep the crowd singing and dancing till the last note fades.
+
+Join us on a musical journey through the decades, and let's keep the spirit of rock alive! 🎸🤘
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
 
 Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
 
@@ -24,11 +31,11 @@ Bender, quit destroying the universe! No! The cat shelter's on to me. Enough abo
 
 I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
+* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
+* And when we woke up, we had these bodies.
+* Spare me your space age technobabble, Attila the Hun!
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
 
 You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
 
