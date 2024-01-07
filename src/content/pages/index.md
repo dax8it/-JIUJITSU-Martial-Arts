@@ -4,7 +4,7 @@ slug: /
 title: The Non-Essentials
 tagline: "Your Favorite Rock Band covering Classic Rock from the 70's, 80's,
   90's. We're the band your grandparents warned you about. "
-featuredImage: /assets/bandpromo12.jpg
+featuredImage: /assets/dall·e-2023-12-01-16.26.34-a-black-and-white-photograph-with-a-nostalgic-and-edgy-theme-featuring-a-beautiful-model-in-a-relaxed-hitchhiking-pose-standing-off-center-to-the-ri.png
 cta:
   ctaText: Know more
   ctaLink: /about
