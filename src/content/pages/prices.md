@@ -1,53 +1,232 @@
 ---
-template: prices
+template: blog-post
 slug: /prices
 title: Martial Arts Training Prices
+description: Our pricing makes taking classes affordable!
+featuredImage: /assets/grapplingindustriesais08149.jpg
 ---
 
-* Martial Arts Training Prices
+# Monthly Subscriptions
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $12 to $27 depending on the program you choose. You decide.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+## Register for classes here:
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+## <https://www.maonrails.com/signup/member/8s6>
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+# Get Started Now with a Trial:
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+## \- Three Trial Classes (Within 1 week) - $35
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+## \- Toddler Trial (Two Consecutive Saturdays) - $35
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+##### \*\*Limited Spots available for our Toddler Program!
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+ <br>
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+- - -
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
+## Unlimited Classes - $250/mo:
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+(+ $10.00 Sign Up Fee)
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+* From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+  * Unlimited Jiu-Jitsu
+  * Muay Thai
+  * Kickboxing
+  * Yoga
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+**\- OR -** 
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+## Pay In Full, Unlimited (6 Months) - $1,400:
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+* ## Save $100!
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+- - -
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+## Four Times a Week - $225/mo **($14 Per Class)**
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+(+ $15.00 Sign Up Fee) 
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+**\- OR -** 
+
+## Pay In Full, 4x's A Week (6 Months) - $1,300:
+
+* ## **Save $50!**
+
+- - -
+
+## Three Times a Week - $215/mo ($18 Per Class)
+
+(+ $15.00 Sign Up Fee)
+
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
+
+**\- OR -** 
+
+## Pay In Full, 3x's A Week (6 Months) - $1,230:
+
+* ## **Save $60!**
+
+- - -
+
+## Two Times a Week - $200/mo ($25 Per Class)
+
+(+ $15.00 Sign Up Fee)
+
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
+
+**\- OR -** 
+
+## Pay In Full, 2x's A Week (6 Months) - $1,150:
+
+* ## **Save $50!**
+
+- - -
+
+## One Time a Week - $140/mo ($35 Per Class)
+
+(+ $15.00 Sign Up Fee)
+
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
+
+**\*Excluded for Toddler Classes**
+
+**\- OR -** 
+
+## Pay In Full, 1x A Week (6 Months) - $800:
+
+* ## **Save $40!**
+
+- - -
+
+## Jiu-Jitsu Package - $225/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
+
+  * Jiu-Jitsu
+  * Yoga
+
+**\- OR -** 
+
+## Pay In Full, BJJ Unlimited (6 Months) - $1,300:
+
+* ## **Save $50!**
+
+- - -
+
+## Striking Unlimited - $185/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
+
+  * Kickboxing
+  * Muay Thai
+  * Yoga
+
+**\- OR -** 
+
+## Pay In Full, Striking Unlimited (6 Months) - $1,060:
+
+* ## **Save $50!**
+
+- - -
+
+## Age 3-5 Toddler Program
+
+* l﻿earn discipline
+* l﻿earn throws (Judo)
+* learn how to fall
+* Great for adventurous kids   
+
+## $215/mo: ($18 Per Class)
+
+(+ $15.00 Sign Up Fee)
+
+* 3 Sessions a Week. Includes  all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
+
+  **\- OR -**
+
+## $180/mo: ($22 Per Class)
+
+(+ $15.00 Sign Up Fee)
+
+* 2 Sessions a Week. Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.
+
+- - -
+
+# Drop In Fees:
+
+**One Session - $50**
+
+**Day Pass - $100**
+
+**(Drop In fees are no longer offered for our Toddler program)**
+
+- - -
+
+# Private Sessions:
+
+Available for purchase below:
+
+<https://at-jiujitsu-nyc.gymdesk.com/pricing>
+
+**Please give us a phone call, send an email, or speak to the front desk at your next visit to schedule a time for the private sessions.** 
+
+**Professor Alvaro:**
+
+* (1) Session(s) 30 minutes: $60
+* (3) Session(s) 30 minutes: $165
+* (5) Session(s) 30 minutes: $275
+* (10) Session(s) 30 minutes: $550
+
+<br>
+
+* (1) Session(s) 1 hour: $120
+* (3) Session(s) 1 hour: $350
+* (5) Session(s) 1 hour:  $499
+* (10) Session(s) 1 hour: $999
+
+**Coach Rocco:** 
+
+* (3) ONE HOUR PRIVATE SESSIONS - $300
+* (1) ONE HOUR PRIVATE SESSION - $120
+
+**Kids Private Session with a Coach:** 
+
+* 45 MINUTES - $45
+
+**Mommy/Daddy & Me Private:**
+
+(Book a private Jiu-Jitsu or Kickboxing session with your little one)
+
+* **45 MINUTES - $100**
+* **ONE HOUR - $120**
+
+- - -
+
+20% OFF FOR  2ND FAMILY/FRIEND 
+
+30% OFF FOR 3RD FAMILY/FRIEND
+
+40% OFF FOR 4TH FAMILY MEMBER
+
+We offer Military/ Health Care/ Law Enforcement/ Fire Department Discount

@@ -12,11 +12,12 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        A GatsbyJS Starter for Netlify CMS, Made with{" "}
+      MARTIAL ARTS • JIUJITSU • KIDS BJJ • KID KICKBOXING • KIDS MMA • MUAY THAI • KETTLEBELL • SMARTER YOGA •
+        KICKBOXING • MMA • TODDLER JIU-JITSU <br></br> 80-22 NORTHERN BLVD • JACKSON HEIGHTS • QUEENS • 11372{" "}
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
+        by <Link to="/">atjiujistunyc.com</Link>
       </p>
     </div>
   </footer>

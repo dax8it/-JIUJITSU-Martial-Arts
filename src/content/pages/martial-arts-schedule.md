@@ -1,53 +1,172 @@
 ---
-template: schedule
+template: blog-post
 slug: /martial-arts-schedule
 title: Martial Arts Class Schedule
+featuredImage: /assets/homepagea2.jpg
 ---
 
-* Martial Arts Class Schedule
+# Adult and Kids Schedule
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+## VIRTUAL SCHEDULE:
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+## <https://at-jiujitsu-nyc.maonrails.com/schedule>
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+Please arrive on time to class or 10 minutes prior to class starting!  If you arrive past 15 minutes, you are not allowed to take class.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+### Discover the Jiujitsu NYC Difference: Join Us Today!
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+Ready to embark on an unparalleled martial arts journey? Whether you're considering a one-week trial or diving into full membership, Jiujitsu NYC Academy has the perfect plan tailored for you. With a range of flexible and affordable membership options, we're committed to ensuring that every student finds their ideal fit. Don't miss out on this opportunity to elevate your skills, boost your confidence, and be part of our vibrant martial arts community. Experience firsthand the exceptional training and camaraderie that sets Jiujitsu NYC Academy apart. [Sign up for Jiujitsu NYC Academy](https://www.maonrails.com/signup/member/8s6) and begin your transformative journey with us!
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+# [SIGN UP](https://www.maonrails.com/signup/member/8s6)
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+<script src="https://www.maonrails.com/js/widgets.js"></script>
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+<div class="maonrails-schedule maonrails-frame-container" attr-gym="DL7vA"></div>
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+<div class="maonrails-booking" attr-gym="DL7vA"></div>
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+- - -
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+# Adult Classes
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+## MONDAY
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+***Morning Class***
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+* **No Gi Jiu-Jitsu:** 8:00 am to 9:00 am
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+***Afternoon Class***
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+* **Kickboxing:** 6:15 to 7:00 pm
+* **Beginners Jiu-Jitsu (No Gi):** 6:10 to 7:00 pm
+* **Kettlebell:** 7:15 to 8:00 pm
+* **No Gi Jiu-Jitsu:** 7:15 to 8:15 pm
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+## TUESDAY
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+***Morning Class***
+
+* **Jiu-Jitsu (Gi) :** 7:00 am to 8:15 am
+
+***Afternoon Class***
+
+* **Muay Thai:** 6:15 to 7:00 pm
+* **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
+* **Jiu-Jitsu Drilling and Sparring (Gi):** 7:15 to 8:30 pm
+
+## WEDNESDAY
+
+***Morning Class***
+
+* **No Gi Jiu-Jitsu :** 7:30 am to 8:30 am
+
+***Afternoon Class***
+
+* **Kickboxing:** 6:15 to 7:00 pm
+* **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:00 pm
+* **No Gi Jiu-Jitsu Advanced Sparring:** 7:15 to 8:00 pm
+
+## THURSDAY
+
+***Morning Class***
+
+* **Jiu-Jitsu (Gi):** 7:00 am to 8:15 am
+
+***Afternoon Class***
+
+* **Muay Thai:** 6:15 to 7:00 pm
+* **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
+* **Smarter Yoga:** 7:15 to 8:00 pm
+* **Jiu-Jitsu Drilling (Gi):** 7:15 to 8:15 pm
+
+## FRIDAY
+
+***Morning Class***
+
+* **No Gi Jiu-Jitsu :** 7:30 am to 8:30 am
+
+***Afternoon Class***
+
+* **Beginners MMA:** 6:15 to 7:00 pm
+* **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:00 pm
+* **Drilling and Sparring (Gi):** 7:15 to 8:15 pm
+
+## SATURDAY
+
+* **No Gi Drilling and Sparring:** 12:15 to 1:15 pm
+
+## SUNDAY
+
+* **Drilling and Sparring (Open Training):** 10:00 to 12:00 pm
+
+<br>
+
+- - -
+
+# Kids Classes
+
+### MONDAY
+
+* **Kids Kickboxing (Ages 5-15):** 4:00 to 4:45 pm
+* **Kids Jiu-Jitsu (Ages 5-15):** 5:00 to 5:45 pm
+
+### TUESDAY
+
+* **Kids Kickboxing (Ages 5-15):** 3:30 to 4:10 pm
+* **K﻿ids Jiu-Jitsu (Ages 5-9):** 4:30 to 5:10 pm
+* **Kids MMA Advanced (Ages 7-15):** 5:15 to 6:00 pm
+
+  (﻿To take MMA, your child must have Jiu-Jitsu & Striking experience!)
+
+### WEDNESDAY
+
+* **Kids Kickboxing Advanced Sparring (Ages 5-15):** 4:00 to 4:45 pm
+* **Kids Jiu-Jitsu (Ages 5-15):** 5:00 to 5:45 pm
+
+### THURSDAY
+
+* **Toddler Jiu-Jitsu (Ages 3-5):** 3:45 to 4:30 pm 
+* **Kids No Gi Jiu-Jitsu (Ages 7-15):** 4:15 to 5:00 pm 
+* **Kids MMA Advanced (Ages 7-15):** 5:15 to 6:00 pm 
+
+  (﻿To take MMA, your child must have Jiu-Jitsu & Striking experience!)
+
+### FRIDAY
+
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
+* **Kids No Gi Jiu-Jitsu (Ages 10 to 15):** 4:15 to 5:00 pm
+
+### SATURDAY
+
+* **Toddler Jiu-Jitsu (Ages 3-5):** 9:30 to 10:15 am
+* **Toddler Kickboxing/Beginners (Ages 3-9):** 11:10 to 11:50 am
+
+<br>
+
+* **Kids Jiu-Jitsu (Ages 6-9):** 10:00 to 11:00 am
+* **Kids Jiu-Jitsu (Ages 10-15):** 10:15 to 11:15 am
+* **Kids MMA (Ages 10-15):** 11:15 to 12:00 pm
+
+### SUNDAY
+
+* **Kids Sunday Funday Advanced Drilling & Sparring (Ages 5-15):** 11:30 to 12:30 pm
+
+<bh>
+
+- - -
+
+<!-- Google tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
+</script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4799639-6');
+</script>

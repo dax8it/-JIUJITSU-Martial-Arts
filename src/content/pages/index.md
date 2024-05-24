@@ -1,22 +1,72 @@
 ---
 template: index-page
 slug: /
-title: The Non-Essentials
-tagline: "Your Favorite Rock Band covering Classic Rock from the 70's, 80's,
-  90's. We're the band your grandparents warned you about. "
-featuredImage: /assets/dall·e-2023-12-01-16.26.34-a-black-and-white-photograph-with-a-nostalgic-and-edgy-theme-featuring-a-beautiful-model-in-a-relaxed-hitchhiking-pose-standing-off-center-to-the-ri.png
+title: JiujitsuNYC
+tagline: Best BJJ & Martial Arts Training in Jackson Heights, Queens.
+description: Best BJJ & Martial Arts Training in Jackson Heights, Queens.
+featuredImage: /assets/dsc05705.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-### About "The Non-Essentials"
 
-Rocking the tristate area with a blend of iconic tunes from the 70s, 80s, 90s, and 00s, "The Non-Essentials" have been igniting stages since their inception by lead guitarist Paul Campanelli. Hailing from Northern New Jersey, our band members are seasoned musicians united by a shared passion for classic rock and a commitment to delivering high-energy performances.
+---
 
-We are not just another cover band. Our repertoire is a carefully curated mix of the greatest rock hits, ensuring there's something for every rock enthusiast in our audience. Whether it's the rhythmic pulse of 70s rock, the electrifying guitar solos of the 80s, the raw energy of 90s grunge, or the unforgettable melodies of the 00s, we bring it all to life with authenticity and fervor.
 
-Our performances are more than just concerts; they are a homage to the era of rock and roll. Without resorting to gimmicks or costumes, we focus on what matters most – the music. Each show is a unique experience, tailored to our audience, guaranteeing an unforgettable night of nostalgia and fun.
+### About @JiujtisuNYC
 
-Based in the heart of the tristate area, "The Non-Essentials" are available for bookings, ready to bring the spirit of rock and roll to your event. Whether it's a lively bar gig, a private party, or a grand corporate event, we promise to keep the crowd singing and dancing till the last note fades.
+## Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?
+### @JIUJITSUNYC: Martial Arts Academy
 
-Join us on a musical journey through the decades, and let's keep the spirit of rock alive! 🎸🤘
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)  
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)
+
+## @Jiujitsu Martial Arts Training, Jackson Heights Queens, NY
+
+Discover the best BJJ and martial arts training with comprehensive programs offering the best in self-defense programs for kids and adults, welcoming everyone from complete beginners to advanced competitors.
+
+[Prices. No Contracts!](https://www.atjiujitsunyc.com/prices/)  
+[Learn More](https://www.atjiujitsunyc.com/about/)
+
+### Our Members: The Heart of @JIUJITSUNYC
+Discover the best BJJ and martial arts training for everyone from complete beginners to advanced competitors.
+
+### Kids Martial Arts
+Martial arts is a structured system of training designed to improve physical fitness, mental discipline, and self-defense skills.
+
+- [Kids Jiu-Jitsu: (5-9)](/kids-jiujitsu-classes)
+- [Kids Jiu-Jitsu: (10-15)](/kids-jiujitsu-classes)
+- [Kids Kickboxing: (Ages 7-15)](/kids-kickboxing)
+- [Kids MMA: (Ages 8-15)](/kids-mma)
+- [Toddlers Jiujitsu: (Ages 3-5)](/toddler-jiujitsu)
+
+[LEARN MORE...](/kids-martial-arts)
+
+### Adults Martial Arts
+Whether you're looking to improve your mobility, learn self-defense, or increase your physical and mental health, we have programs to meet your every need.
+
+- [Jiu-Jitsu](/brasilian-jiu-jitsu)
+- [Muay-Thai](/muay-thai)
+- [MMA](/mma)
+- [Kick-boxing](/kickboxing)
+- [Smarter Yoga](/smart-yoga)
+- [Kettle Bell](/kettlebell)
+
+[LEARN MORE...](/adult-martial-arts)
+
+### Our Results Speak for Themselves
+The world of martial arts is ever-evolving, with new techniques and philosophies emerging regularly. @JIUJITSUNYC stays ahead of the curve. We've distilled decades of martial arts evolution to offer you training that's both traditional and cutting-edge.
+
+### FAQs about the @JIUJITSUNYC Martial Arts Academy
+- **Which martial arts are taught at the @JIUJITSUNYC academy?**
+  - The academy provides training in Brazilian Jiu-Jitsu, Kickboxing, Muay Thai, MMA, and Smarter Yoga.
+- **Is the academy suitable for beginners?**
+  - Yes, individuals of all levels are welcome, from novices to seasoned professionals.
+- **What differentiates this academy from other martial arts institutions?**
+  - The emphasis on community, family-oriented training, and a harmonious blend of traditional and contemporary techniques sets the academy apart.
+- **Where is the Martial Arts Academy located?**
+  - The academy is situated in the lively neighborhood of Jackson Heights, Queens, New York City.
+- **Why is community engagement a priority for the academy?**
+  - Community engagement plays a pivotal role in the holistic development of members.
+
+This format cleans up the HTML and comments, converting links and text into readable Markdown syntax suitable for documentation or other Markdown-supporting environments.

@@ -9,17 +9,10 @@ import {
   RiLinkedinBoxFill,
   RiYoutubeFill,
   RiInstagramFill,
-  RiRssFill,
   RiGithubFill,
   RiTelegramFill,
-  RiPinterestFill,
-  RiSnapchatFill,
-  RiSkypeFill,
-  RiDribbbleFill,
-  RiMediumFill,
-  RiBehanceFill,
 } from "react-icons/ri"
-import { FaTiktok, FaWordpress, FaVk } from "react-icons/fa"
+import { FaTiktok } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -36,7 +29,7 @@ export const pageQuery = graphql`
         tagline
         featuredImage {
           childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED, width: 585, height: 439)
+            gatsbyImageData(layout: FULL_WIDTH)
           }
         }
         cta {
@@ -114,13 +107,6 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "rss" ? (
-          <a href={icons.url} target="_blank" aria-label="link to RSS" rel="noopener noreferrer">
-            <RiRssFill alt="RSS icon" />
-          </a>
-        ) : (
-          ""
-        )}
         {icons.icon === "github" ? (
           <a href={icons.url} target="_blank" aria-label="link to Github" rel="noopener noreferrer">
             <RiGithubFill alt="Github icon" />
@@ -135,65 +121,9 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "pinterest" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Pinterest" rel="noopener noreferrer">
-            <RiPinterestFill alt="Pinterest icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "snapchat" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Snapchat" rel="noopener noreferrer">
-            <RiSnapchatFill alt="Snapchat icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "skype" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Skype" rel="noopener noreferrer">
-            <RiSkypeFill alt="Skype icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "wordpress" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
-            <FaWordpress alt="Wordpress icon" />
-          </a>
-        ) : (
-          ""
-        )}
         {icons.icon === "tiktok" ? (
           <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
             <FaTiktok alt="tiktok icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "dribbble" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
-            <RiDribbbleFill alt="Dribbble icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "medium" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Medium" rel="noopener noreferrer">
-            <RiMediumFill alt="Medium icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "behance" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Behance" rel="noopener noreferrer">
-            <RiBehanceFill alt="Behance icon" />
-          </a>
-        ) : (
-          ""
-        )}
-        {icons.icon === "vk" ? (
-          <a href={icons.url} target="_blank" aria-label="link to vk" rel="noopener noreferrer">
-            <FaVk alt="vk icon" />
           </a>
         ) : (
           ""
@@ -202,83 +132,96 @@ const HomePage = ({ data }) => {
     )
   })
   return (
-    <Layout>
-      <Seo />
-      <div className="home-banner grids col-1 sm-2">
-        <div>
-          <h1 className="title">{frontmatter.title}</h1>
-          <p
-            className="tagline"
-            sx={{
-              color: "muted",
-            }}
-          >
-            {frontmatter.tagline}
-          </p>
-          <div
-            className="description"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
-          <Link
-            to={frontmatter.cta.ctaLink}
-            className="button"
-            sx={{
-              variant: "variants.button",
-            }}
-          >
-            {frontmatter.cta.ctaText}
-            <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-          </Link>
-          <div
-            className="social-icons"
-            sx={{
-              variant: "variants.socialIcons",
-            }}
-          >
-            {sIcons}
+   <Layout className="page">
+          <Seo />
+          
+          <div className="wrapper">
+            <div>
+              <h1 className="title">{frontmatter.title}</h1>
+              <p
+                className="tagline"
+                sx={{
+                  color: "muted",
+                }}
+              >
+                {frontmatter.tagline}
+              </p>
+              <div>
+              {Image ? (
+                <GatsbyImage
+                  image={Image}
+                  alt={frontmatter.title + " - Featured image"}
+                  className="featured-image"
+                />
+              ) : (
+                ""
+              )}
+            </div>
+              <div
+                className="description"
+                dangerouslySetInnerHTML={{ __html: html }}
+              />
+              <Link
+                to={frontmatter.cta.ctaLink}
+                className="button"
+                sx={{
+                  variant: "variants.button",
+                }}
+              >
+                {frontmatter.cta.ctaText}
+                <span className="icon -right">
+                  <RiArrowRightSLine />
+                </span>
+              </Link>
+              <div
+                className="social-icons"
+                sx={{
+                  variant: "variants.socialIcons",
+                }}
+              >
+                {sIcons}
+              </div>
+            </div>   
           </div>
-        </div>
-        <div>
-          {Image ? (
-            <GatsbyImage
-              image={Image}
-              alt={frontmatter.title + " - Featured image"}
-              className="featured-image"
-            />
-          ) : (
-            ""
-          )}
-        </div>
-      </div>
-      <hr />
-      <div class="row-home">
-    <div class="container-home kids-section">
-        <h2 class="heading-kids">Kids Martial Arts</h2>
-        <p class="paragraph-kids">Martial arts is a structured system of training designed to improve physical fitness, mental discipline, and self-defense skills.</p>
-        <ul class="list-kids">
-            <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">Kids Jiu-Jitsu</a></li>
-            <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">Kids Kickboxing</a></li>
-            <li><a href="https://www.atjiujitsunyc.com/kids-mma/">Kids MMA</a></li>
-        </ul>
-    </div>
-    <div class="container-home adults-section">
-        <h2 class="heading-adults">Adults Martial Arts</h2>
-        <p class="paragraph-adults">Maybe this will work we shall see.</p>
-        <ul class="list-adults">
-            <li><a href="#">Full-Body Workout</a></li>
-            <li><a href="#">Cardio King</a></li>
-            <li><a href="#">Shed Those Pounds</a></li>
-            <li><a href="#">Flexibility & Mobility</a></li>
-        </ul>
-    </div>
-</div>
-<hr />
+          <hr />
+          <div class="wrapper">
+              <div class="container-home kids-section">
+                  <h2 class="heading-kids">Kids Martial Arts</h2>
+                  <p class="paragraph-kids">Martial arts is a structured system of training designed to improve physical fitness, mental discipline, and self-defense skills.</p>
+                  <ul class="list-kids">
+                      <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">Kids Jiu-Jitsu</a></li>
+                      <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">Kids Kickboxing</a></li>
+                      <li><a href="https://www.atjiujitsunyc.com/kids-mma/">Kids MMA</a></li>
+                  </ul>
+              </div>
+              <div class="container-home adults-section">
+                  <h2 class="heading-adults">Adults Martial Arts</h2>
+                  <p class="paragraph-adults">Maybe this will work we shall see.</p>
+                  <ul class="list-adults">
+                      <li><a href="#">Full-Body Workout</a></li>
+                      <li><a href="#">Cardio King</a></li>
+                      <li><a href="#">Shed Those Pounds</a></li>
+                      <li><a href="#">Flexibility & Mobility</a></li>
+                  </ul>
+              </div>
+              <Link
+                      to={frontmatter.cta.ctaLink}
+                      className="button"
+                      sx={{
+                        variant: "variants.button",
+                      }}
+                    >
+                      {frontmatter.cta.ctaText}
+                      <span className="icon -right">
+                        <RiArrowRightSLine />
+                      </span>
+              </Link>
+          </div>
+    <hr />
 
     
-   <BlogListHome data={posts} />
-    </Layout>
+      <BlogListHome data={posts} />
+  </Layout>
   )
 }
 

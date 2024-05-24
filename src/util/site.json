@@ -2,11 +2,11 @@
   "meta": {
     "title": "@JiuJitsuNYC",
     "titleTemplate": "%s",
-    "description": "A Martial Arts Academy in Jackson Heights, Queens. Adult and Kids Martial Arts Training.",
+    "description": "Best Adult and Kids Jiujitsu & Martial Arts Training in Jackson Heights, Queens.",
     "siteUrl": "https://www.atjiujitsunyc.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/atjiujitsu-icon.png",
+    "iconimage": "/assets/atjiujitsu-icon.png",
+    "twitterUsername": "@jiujijtsunyc"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-4799639-6"
 }

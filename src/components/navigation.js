@@ -37,6 +37,11 @@ const MenuItems = [
     path: "/contact",
     title: "Contact",
   },
+  {
+    path: "https://at-jiujitsu-nyc.gymdesk.com/login",
+    title: "Member Login",
+  },
+  
 ]
 
 const ListLink = props => (
