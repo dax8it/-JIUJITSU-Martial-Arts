@@ -38,7 +38,7 @@ const MenuItems = [
     title: "Contact",
   },
   {
-    path: "https://at-jiujitsu-nyc.gymdesk.com/login",
+    path: "/contact",
     title: "Member Login",
   },
   

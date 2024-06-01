@@ -1,6 +1,10 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
+// src/pages/index-page.js
+import React from 'react';
+import Hero from "../components/Hero";
 import { graphql, Link } from "gatsby"
+import { getImage } from 'gatsby-plugin-image'; // add this line
 import { GatsbyImage } from "gatsby-plugin-image"
 import { RiArrowRightSLine } from "react-icons/ri"
 import {
@@ -9,10 +13,17 @@ import {
   RiLinkedinBoxFill,
   RiYoutubeFill,
   RiInstagramFill,
+  RiRssFill,
   RiGithubFill,
   RiTelegramFill,
+  RiPinterestFill,
+  RiSnapchatFill,
+  RiSkypeFill,
+  RiDribbbleFill,
+  RiMediumFill,
+  RiBehanceFill,
 } from "react-icons/ri"
-import { FaTiktok } from "react-icons/fa"
+import { FaTiktok, FaWordpress, FaVk } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -60,10 +71,17 @@ export const pageQuery = graphql`
         }
       }
     }
+
+    heroImage: file(relativePath: { eq: "martial-arts-kids.jpg" }) {
+      childImageSharp {
+        gatsbyImageData(layout: FULL_WIDTH)
+      }
+    }
   }
 `
 
 const HomePage = ({ data }) => {
+  const heroImage = getImage(data.heroImage);
   const { markdownRemark, posts } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage
@@ -107,6 +125,13 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        {icons.icon === "rss" ? (
+          <a href={icons.url} target="_blank" aria-label="link to RSS" rel="noopener noreferrer">
+            <RiRssFill alt="RSS icon" />
+          </a>
+        ) : (
+          ""
+        )}
         {icons.icon === "github" ? (
           <a href={icons.url} target="_blank" aria-label="link to Github" rel="noopener noreferrer">
             <RiGithubFill alt="Github icon" />
@@ -121,9 +146,65 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        {icons.icon === "pinterest" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Pinterest" rel="noopener noreferrer">
+            <RiPinterestFill alt="Pinterest icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "snapchat" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Snapchat" rel="noopener noreferrer">
+            <RiSnapchatFill alt="Snapchat icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "skype" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Skype" rel="noopener noreferrer">
+            <RiSkypeFill alt="Skype icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "wordpress" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
+            <FaWordpress alt="Wordpress icon" />
+          </a>
+        ) : (
+          ""
+        )}
         {icons.icon === "tiktok" ? (
           <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
             <FaTiktok alt="tiktok icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "dribbble" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
+            <RiDribbbleFill alt="Dribbble icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "medium" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Medium" rel="noopener noreferrer">
+            <RiMediumFill alt="Medium icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "behance" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Behance" rel="noopener noreferrer">
+            <RiBehanceFill alt="Behance icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "vk" ? (
+          <a href={icons.url} target="_blank" aria-label="link to vk" rel="noopener noreferrer">
+            <FaVk alt="vk icon" />
           </a>
         ) : (
           ""
@@ -132,78 +213,70 @@ const HomePage = ({ data }) => {
     )
   })
   return (
-   <Layout className="page">
-          <Seo />
-          
-          <div className="wrapper">
-            <div>
-              <h1 className="title">{frontmatter.title}</h1>
-              <p
-                className="tagline"
-                sx={{
-                  color: "muted",
-                }}
-              >
-                {frontmatter.tagline}
-              </p>
-              <div>
-              {Image ? (
-                <GatsbyImage
-                  image={Image}
-                  alt={frontmatter.title + " - Featured image"}
-                  className="featured-image"
-                />
-              ) : (
-                ""
-              )}
-            </div>
-              <div
-                className="description"
-                dangerouslySetInnerHTML={{ __html: html }}
-              />
-              <Link
-                to={frontmatter.cta.ctaLink}
-                className="button"
-                sx={{
-                  variant: "variants.button",
-                }}
-              >
-                {frontmatter.cta.ctaText}
-                <span className="icon -right">
-                  <RiArrowRightSLine />
-                </span>
-              </Link>
-              <div
-                className="social-icons"
-                sx={{
-                  variant: "variants.socialIcons",
-                }}
-              >
-                {sIcons}
-              </div>
-            </div>   
-          </div>
-          <hr />
-          <div class="wrapper">
+    <Layout className="page" >
+      <Seo /> <div></div>
+      <Hero
+        image={heroImage}
+        button1Text="Sign-Up" // replace with your text
+        button1Link="https://at-jiujitsu-nyc.gymdesk.com/signup"  // replace with your link
+        button2Text="Schedule" // replace with your text
+        button2Link="https://at-jiujitsu-nyc.gymdesk.com/schedule"  // replace with your link
+      />
+      <div className="featured-banner" >
+        <div>
+          <h1 className="article-header">{frontmatter.title}</h1>
+          <p
+            className="tagline"
+            sx={{
+              color: "muted",
+            }}
+          >
+            {frontmatter.tagline}
+          </p>
+          <div>
+          {Image ? (
+            <GatsbyImage
+              image={Image}
+              alt={frontmatter.title + " - Featured image"}
+              className="featured-image"
+            />
+          ) : (
+            ""
+          )}
+        </div>
 
-              <Link
-                      to={frontmatter.cta.ctaLink}
-                      className="button"
-                      sx={{
-                        variant: "variants.button",
-                      }}
-                    >
-                      {frontmatter.cta.ctaText}
-                      <span className="icon -right">
-                        <RiArrowRightSLine />
-                      </span>
-              </Link>
+          <div 
+            className="description"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+          <Link
+            to={frontmatter.cta.ctaLink}
+            className="button"
+            sx={{
+              variant: "variants.button",
+            }}
+          >
+            {frontmatter.cta.ctaText}
+            <span className="icon -right">
+              <RiArrowRightSLine />
+            </span>
+          </Link>
+          <div
+            className="social-icons"
+            sx={{
+              variant: "variants.socialIcons",
+            }}
+          >
+            {sIcons}
           </div>
-    <hr />
+        </div>
 
-    
+
+
+
+      </div>
       <BlogListHome data={posts} />
-  </Layout>
+    </Layout>
   )
 }
 

@@ -2,6 +2,7 @@
 template: blog-post
 slug: /prices
 title: Martial Arts Training Prices
+date: 2020-05-29
 description: Our pricing makes taking classes affordable!
 featuredImage: /assets/grapplingindustriesais08149.jpg
 ---

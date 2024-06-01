@@ -68,5 +68,3 @@ The world of martial arts is ever-evolving, with new techniques and philosophies
   - The academy is situated in the lively neighborhood of Jackson Heights, Queens, New York City.
 - **Why is community engagement a priority for the academy?**
   - Community engagement plays a pivotal role in the holistic development of members.
-
-This format cleans up the HTML and comments, converting links and text into readable Markdown syntax suitable for documentation or other Markdown-supporting environments.

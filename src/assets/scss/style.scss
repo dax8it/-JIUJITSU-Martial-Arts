@@ -208,7 +208,7 @@
     font-weight: 600;
   }
   time {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 @media (max-width: $breakpoint-sm) {
@@ -254,11 +254,8 @@ article img {
   }
 }
 // Buttons
-
-
-
 .button {
-  --padding: 15px;
+  --padding: 20px;
   --margin: 20px;
   display: inline-flex;
   align-items: center;
@@ -289,6 +286,102 @@ article img {
     }
     &.-left {
       margin-right: var(--margin);
+    }
+  }
+}
+
+.hero-component {
+  position: relative;
+  min-height: 40vh; // Adjust as needed based on design preferences
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30%;
+
+}
+  .hero-button1,
+  .hero-button2 {
+  position: absolute;
+  display: inline-flex;
+  bottom: calc(33.33% - (250px / 2));
+  left: 35%;
+  transform: translate(-50%);
+  background-color: rgba(0, 0, 255, 0.4); /* Blue with 70% opacity */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center; // Center the title and subtitle
+
+    .hero-title,
+    .hero-subtitle {
+      width: 100%; // Ensure they fit at least across 75% of the hero image
+      margin: 0 auto; // Horizontally center them
+      color: white; // Change color as needed
+      text-align: center;
+    }
+
+    .hero-title {
+      font-size: 2em; // Adjust size as needed for larger screens
+      margin-bottom: 0.5em; // Add some space between title and subtitle
+      text-align: center;
+    }
+
+    .hero-subtitle {
+      font-size: 1.2em; // Adjust size as needed for larger screens
+      margin-bottom: 0.5em;
+      text-align: center;
+    }
+  }
+
+  .hero-subtitle {
+    font-size: 1.2em; // Adjust size as needed
+    color: white; // Change color as needed
+  }
+
+
+.hero-button1 {
+  left: calc(50% - (200px / 2) - 10px); // Adjusted for spacing between buttons and centered
+}
+
+.hero-button2 {
+  left: calc(50% + (200px / 2) + 10px); // Adjusted for spacing between buttons and centered
+}
+
+.hero {
+  position: relative;
+  min-height: 40vh; // Adjust as needed based on design preferences
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30%;
+
+  .gatsby-image-wrapper,
+  .hero-button {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    color: white;
+  }
+
+  .hero-button {
+    h1, p {
+      margin: 0.2em 0; // Adjust spacing between title and subtitle
+      overflow-wrap: break-word; // Prevent text from having a line break
+    }
+
+    a {
+      display: block;
+      margin: 0.5em auto;
+      width: fit-content;
+      padding: 0.5em 1em;
+      border: 2px solid white;
+      border-radius: 5px;
+      text-decoration: none;
     }
   }
 }
@@ -408,64 +501,17 @@ article img {
       line-height: 1.3;
     }
   }
-
-
-
-
-  .row-home {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-  }
+  @media (max-width: 768px) {
+    .hero-button {
+      h1, p {
+        font-size: 0.9em; // Smaller font size for smaller screens
+      }
   
-  .container-home {
-    margin-bottom: 20px;
-  }
-  
-  .container-home h2 {
-    margin-top: 0;
-  }
-  
-  .container-home p {
-    margin: 10px 0;
-  }
-  
-  .list-home {
-    padding: 0;
-    list-style-type: none;
-  }
-  
-  .list-home li {
-    margin: 5px 0;
-  }
-  
-  .list-home li a {
-    text-decoration: none;
-    color: #000;
-  }
-  
-  .list-home li a:hover {
-    text-decoration: underline;
-  }
-  
-  @media(min-width: 600px) {
-    .row-home {
-      flex-direction: row;
-      justify-content: space-between;
-    }
-  
-    .container-home {
-      width: 45%; /* Adjust as necessary */
-      margin-bottom: 0;
-    }
-  
-    .container-home:last-child .row-home {
-      margin-top: 20px;
+      a {
+        padding: 0.3em 0.8em;
+      }
     }
   }
-  
-
-  
 
   @media (max-width: $breakpoint-md) {
     padding: 50px 0 ul {
@@ -487,7 +533,32 @@ article img {
     .num {
       display: none;
     }
+    .hero-button {
+      .hero-title,
+      .hero-subtitle {
+        width: 80%; // Narrower screens might need a wider text container
+      }
+  
+      .hero-title {
+        font-size: 1.2em; // Smaller font size for smaller screens
+      }
+  
+      .hero-subtitle {
+        font-size: .7em; // Even smaller font size for smaller screens
+      }
+    }
   }
+
+  @media (max-width: 450px) {
+    /* Existing rules for smaller screens */
+  
+    .hero-button1,
+    .hero-button2 {
+      font-size: 0.4em; /* Adjust the size as needed for your design */
+      padding: 8px 16px; /* Smaller padding to make buttons fit better on smaller screens */
+    }
+  }
+
 }
 
 @import "utility";
