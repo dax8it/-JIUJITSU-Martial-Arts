@@ -2,7 +2,7 @@
 import { jsx } from "theme-ui"
 // src/pages/index-page.js
 import React from 'react';
-import Hero from "../components/Hero";
+import Hero from "../components/hero.js";
 import { graphql, Link } from "gatsby"
 import { getImage } from 'gatsby-plugin-image'; // add this line
 import { GatsbyImage } from "gatsby-plugin-image"
